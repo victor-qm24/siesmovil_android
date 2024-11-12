@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">siesmovil</string>
+    <string name="des_image_login">imgLogin</string>
+    <string name="hint_et_pass">********</string>
+    <string name="hint_et_rol">Rol</string>
+    <string name="hint_et_user">Usuario</string>
+    <string name="value_btn_login">LOGIN</string>
+    <style name="Base.Theme.Siesmovil" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Siesmovil" parent="Base.Theme.Siesmovil"/>
+</resources>
